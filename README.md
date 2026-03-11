@@ -217,7 +217,7 @@ I care deeply about software quality, love finding bugs before users do, and I'm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurcan-hesenova-5ab1553a9/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hesenovanurcanqa@gmail.com)
 
-📞 +994 77 346-12-99
+
 
 </div>
 
