@@ -40,11 +40,45 @@
 
 | Category | Skills |
 |---|---|
-| **Testing Types** | Manual, Functional, Regression, Smoke, Sanity, UI/UX, Cross-browser & Mobile |
-| **Documentation** | Test Plans, Test Cases, Checklists, Bug Reports |
+| **Testing Types** | Manual, Functional, Non-Functional, Regression, Smoke, Sanity, Exploratory, Ad-Hoc, UI, API, Database |
+| **Test Design** | Black-Box, White-Box, Grey-Box techniques |
+| **Documentation** | Test Plans, Test Cases, Test Scenarios, Bug Reports, Checklists |
 | **Tools** | Jira, Postman, Swagger, Hoppscotch, TestRail, Chrome DevTools |
 | **Methodologies** | Agile (Scrum), SDLC, STLC |
 | **Database** | SQL (Supabase), MySQL |
+
+---
+
+## 📚 Education & Training
+
+### 🏫 Sonic Web Academy — QA Manual Testing
+`December 2025 – March 2026`
+
+<details>
+<summary><b>📋 Keçilən Mövzular (Klikləyin)</b></summary>
+
+| # | Mövzu |
+|---|---|
+| 1 | Proqram Təminatı Testi — Testetmə nədir, QA vs QC vs Tester, IT Karyera |
+| 2 | SDLC — Proqram İnkişafının Həyat Dövrü, Layihə İdarəetmə Formaları |
+| 3 | STLC — Test Artifaktları, Verification & Validation |
+| 4 | Bug Management — Error, Defect, Fault, Failure, Bug Priority & Severity, Bug Report |
+| 5 | Testing Levels — Unit, Integration, System, Acceptance Testing |
+| 6 | Testing Types — Functional, Non-Functional, Regression, Smoke, Sanity, Exploratory, Alfa/Beta, Ad-Hoc, Monkey Testing |
+| 7 | API Testing — API nədir, API Testing metodları |
+| 8 | UI Testing — UI nədir, UI Testing yanaşmaları |
+| 9 | Database Testing — DB nədir, SQL ilə test |
+| 10 | Testing Principles — 7 Testetmə Prinsipi |
+| 11 | Test Methodologies — Black-Box, White-Box, Grey-Box dizayn texnikaları |
+| 12 | Performance Testing |
+| 13 | Log Tracking |
+| 14 | Automation — API & UI/Mobile Avtomatlaşdırmaya giriş |
+| 15 | Portfolio |
+
+</details>
+
+### 🎓 Khazar University — Chemistry & Biology Teaching
+`2023 – 2028`
 
 ---
 
@@ -74,7 +108,7 @@
 [![Aicado.ai Test Plan](https://img.shields.io/badge/🤖%20Aicado.ai%20--%20Test%20Plan-e05d44?style=for-the-badge)](https://github.com/hesenovanurcanqa)
 > Manual testing of the Aicado.ai AI-powered platform
 
-- 📂 Sections: Login, Dashboard, Agents, Domains & Publish, Teams, Billing, Settings, Reports
+- 📂 Modules: Login, Dashboard, Agents, Domains & Publish, Teams, Billing, Settings, Reports
 - 🐛 Bug Reports tracked via **Jira**
 - 🔁 Regression Testing after each fix
 - 🔌 API Testing with **Postman** & **Swagger**
@@ -92,18 +126,11 @@
 
 ---
 
-## 🎓 Education
-
-- 🏫 **Sonic Web Academy** — QA Manual Testing *(Dec 2025 – Mar 2026)*
-- 🎓 **Khazar University** — Chemistry & Biology Teaching *(2023–2028)*
-
----
-
 ## 🌐 Languages
 
-- 🇦🇿 Azerbaijani — Native  
-- 🇬🇧 English — Professional  
-- 🇹🇷 Turkish — Professional  
+- 🇦🇿 Azerbaijani — Native
+- 🇬🇧 English — Professional
+- 🇹🇷 Turkish — Professional
 
 ---
 
